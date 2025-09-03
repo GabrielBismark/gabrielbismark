@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou Gabriel Bismark </h1>
 
-<p align="center">Sou desenvolvedor Front-end, em inicio de carreira.</p>
+<p align="center">Sou desenvolvedor Full Stack.</p>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&username=gabrielbismark" height="180" alt="stats graph" />
